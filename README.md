@@ -18,6 +18,10 @@ This is a qr code component of frontend mentor website. once you access the qr c
 
 ![](./images/QR-web-screenshot.jpg)
 
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [QR-live](http://127.0.0.1:5500/index.html)
 
 
 ### Built with
