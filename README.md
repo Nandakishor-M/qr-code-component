@@ -17,7 +17,8 @@
 This is a qr code component of frontend mentor website. once you access the qr code it will lead to the home page of frontend mentor.
 ### Screenshot
 
-![](./images/QR-web-screenshot.jpg)
+![desktop](./images/QR-web-screenshot.jpg)
+![Mobile](./images/QR-web-mobile.jpg)
 
 ### Links
 
