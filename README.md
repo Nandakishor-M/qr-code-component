@@ -21,7 +21,7 @@ This is a qr code component of frontend mentor website. once you access the qr c
 
 ### Links
 
-- Live Site URL: [QR-live](http://127.0.0.1:5500/index.html)
+- Live Site URL: [QR-live]( https://nandakishor-m.github.io/qr-code-component/)
 
 
 ### Built with
