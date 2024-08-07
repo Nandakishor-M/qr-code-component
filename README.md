@@ -18,7 +18,6 @@ This is a qr code component of frontend mentor website. once you access the qr c
 
 ![](./images/QR-web-screenshot.jpg)
 
-The above link is the screenshot of the web of QR code component.
 
 
 ### Built with
