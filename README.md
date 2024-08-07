@@ -39,7 +39,6 @@ Through this project I have gone through css flex property.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Nandakishor-M)
+- Frontend Mentor - [Nandakishor-M](https://www.frontendmentor.io/profile/Nandakishor-M)
 
 
