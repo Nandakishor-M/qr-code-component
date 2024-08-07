@@ -17,12 +17,12 @@
 This is a qr code component of frontend mentor website. once you access the qr code it will lead to the home page of frontend mentor.
 ### Screenshot
 
-Desktop
+ Desktop
 
 ![desktop](./images/QR-web-screenshot.jpg)
 
 
-Mobile
+ Mobile
 
 ![Mobile](./images/QR-web-mobile.jpg)
 
